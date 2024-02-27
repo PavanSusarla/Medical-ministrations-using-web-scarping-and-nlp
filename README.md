@@ -11,9 +11,6 @@ Python for web scraping and data processing.
 Beautiful Soup and Scrapy for web scraping.
 Pandas and Matplotlib for data analysis and visualization.
 SQLite or MongoDB for data storage (optional).
-Installation
-Clone the repository: git clone https://github.com/yourusername/medical-ministrations-web-scraping.git
-Install the required Python packages: pip install -r requirements.txt
 Usage
 Modify the web scraping scripts (scrape_symptoms.py, scrape_treatments.py, etc.) to target specific medical websites.
 Run the scripts to scrape data from the websites.
